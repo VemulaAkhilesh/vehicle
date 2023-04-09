@@ -1,0 +1,40 @@
+{
+  "Add_vehicle": [
+    {
+      "vid": 1,
+      "vehicle": "Bus",
+      "positionx": 900,
+      "positiony": 500,
+      "speed": 20,
+      "direction": "downwords",
+      "active": true
+    },
+    {
+      "vid": 1,
+      "vehicle": "Car",
+      "positionx": 600,
+      "positiony": 100,
+      "speed": 20,
+      "direction": "upwords",
+      "active": true
+    },
+    {
+      "vid": 1,
+      "vehicle": "Bike",
+      "positionx": 400,
+      "positiony": 300,
+      "speed": 20,
+      "direction": "Backwords",
+      "active": true
+    },
+    {
+      "vid": 1,
+      "vehicle": "Jeep",
+      "positionx": 700,
+      "positiony": 400,
+      "speed": 20,
+      "direction": "Towords",
+      "active": true
+    }
+  ]
+} 

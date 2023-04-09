@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* {
+  "Vehicle": [
+    {
+      "vid": 1,
+      "vehicle": "Akhi",
+      "positionx": 200,
+      "positiony": 200,
+      "speed": 20,
+      "direction": "upwords"
+    }
+  ]
+} */
